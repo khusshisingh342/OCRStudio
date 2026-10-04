@@ -1,0 +1,17 @@
+//
+//  OCRStudioApp.swift
+//  OCRStudio
+//
+//  Created by Chitraksh Sharna on 04/10/26.
+//
+
+import SwiftUI
+
+@main
+struct OCRStudioApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
